@@ -32,3 +32,15 @@ cd tomato-info-page
 ```
 
 > The front end will start on [port 3000](http://localhost:3000)
+
+## Deployment
+
+This project deployed on [Netlify](https://netlify.app/)
+
+You can test [the application on Netlify.](https://tomato-info-page.netlify.app/)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/341d1275-6980-4292-9c0d-33e9ad56d5a1/deploy-status)](https://app.netlify.com/sites/tomato-info-page/deploys)
+
+### Built With
+
+- [yarn](https://yarnpkg.com/) - JavaScript Package Manager

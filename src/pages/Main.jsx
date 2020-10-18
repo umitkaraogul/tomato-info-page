@@ -1,6 +1,6 @@
 import React from "react";
-import Newsletter from "../components/Newsletter";
-import Tabs from "../components/Tab";
+import Newsletter from "../components/Newsletter/Newsletter";
+import Tabs from "../components/Tab/Tab";
 import { varieties, tomatoVarieties, nutritionalValues } from "../data";
 import tomatoImage from "../images/tomato.jpg";
 import "./Main.scss";

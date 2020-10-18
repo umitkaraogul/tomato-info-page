@@ -1,7 +1,7 @@
 import React from "react";
 import Tab from "../components/Tab";
 import Newsletter from "../components/Newsletter";
-import "./Main.css";
+import "./Main.scss";
 import tomatoImage from "../images/tomato.jpg";
 const Main = () => (
   <div id="main" className="wrapper">

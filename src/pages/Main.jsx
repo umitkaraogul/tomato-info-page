@@ -1,7 +1,7 @@
 import React from "react";
 import Newsletter from "../components/Newsletter/Newsletter";
-import Tabs from "../components/Tab/Tab";
-import { varieties, tomatoVarieties, nutritionalValues } from "../data";
+import Tabs from "../components/Tab/Tabs";
+import { varieties, tomatoVarieties, nutritionalValues, tabs } from "../data";
 import tomatoImage from "../images/tomato.jpg";
 import "./Main.scss";
 
@@ -57,7 +57,7 @@ const Main = () => (
         </div>
       </div>
     </div>
-    <Tabs />
+    <Tabs tabs={tabs} />
     <Newsletter />
   </div>
 );

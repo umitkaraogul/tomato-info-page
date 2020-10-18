@@ -1,0 +1,13 @@
+.Tomato {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: left;
+}
+
+.Tomato__image {
+  width: 250px;
+}
+
+.wrapper {
+  width: 100%;
+  padding-top: 100px;
+}
